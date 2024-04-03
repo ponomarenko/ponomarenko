@@ -18,12 +18,6 @@
   - Cloud platforms: AWS (EC2, ECS, S3, CloudFront, CloudWatch etc.)
 - **Additional skills:** Agile development, DevOps, unit testing, test-driven development
 
-**Key Achievements:**
-
-- Developed a web application that increased sales by ~10%.
-- Led a team of engineers in the development of a new cloud-based platform.
-- Successfully migrated a legacy system to a new cloud platform.
-
 **Keywords:** Software Engineer, Full-stack Developer, Cloud Engineer, Agile Development, DevOps, Unit Testing, Test-Driven Development
 
 ## 💻 Tech Stack:
