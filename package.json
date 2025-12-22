@@ -1,0 +1,20 @@
+{
+  "name": "ponomarenko-profile",
+  "version": "1.0.0",
+  "description": "Automated GitHub profile README with dynamic featured projects",
+  "private": true,
+  "scripts": {
+    "update-readme": "node scripts/update-featured-projects.js"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "automation"
+  ],
+  "author": "ponomarenko",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
