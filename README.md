@@ -49,10 +49,6 @@ I build full-stack applications from concept to deployment, specializing in clou
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponomarenko&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ponomarenko&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak">
-</p>
-
 ---
 
 ## 🎯 Featured Projects
