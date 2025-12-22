@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://stand-with-ukraine.pp.ua">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="Stand With Ukraine">
+  </a>
+</p>
+
 <h1 align="center">👋 Hey there! I'm a Full-Stack Engineer</h1>
 
 <p align="center">
