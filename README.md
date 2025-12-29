@@ -48,15 +48,6 @@ I build full-stack applications from concept to deployment, specializing in clou
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponomarenko&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponomarenko&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165">
-</p>
-
----
-
 ## 🎯 Featured Projects
 
 ### 🔹 [gitlab-ai-code-review](https://github.com/ponomarenko/gitlab-ai-code-review) ⭐ 1
