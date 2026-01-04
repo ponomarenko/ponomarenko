@@ -50,7 +50,7 @@ I build full-stack applications from concept to deployment, specializing in clou
 
 ## 🎯 Featured Projects
 
-### 🔹 [gitlab-ai-code-review](https://github.com/ponomarenko/gitlab-ai-code-review) ⭐ 1
+### 🔹 [gitlab-ai-code-review](https://github.com/ponomarenko/gitlab-ai-code-review) ⭐ 2
 **Tech:** JavaScript • ai • code-review • dify
 🤖 AI-powered code review bot for GitLab using Dify & RAG. Automated, intelligent feedback on every MR.
 
