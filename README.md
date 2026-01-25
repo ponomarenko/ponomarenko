@@ -54,6 +54,10 @@ I build full-stack applications from concept to deployment, specializing in clou
 **Tech:** JavaScript • ai • code-review • dify
 🤖 AI-powered code review bot for GitLab using Dify & RAG. Automated, intelligent feedback on every MR.
 
+### 🔹 [engineering-playbook](https://github.com/ponomarenko/engineering-playbook)
+**Tech:** Other • documentation • engineering • playbook
+A comprehensive, well-organized handbook of development practices, infrastructure patterns, and operational guides.
+
 ### 🔹 [verdaccio-security-filter](https://github.com/ponomarenko/verdaccio-security-filter)
 **Tech:** TypeScript • security • verdaccio
 Advanced security filter plugin for Verdaccio with version range blocking and fallback strategies
@@ -65,10 +69,6 @@ A collection of independent, zero-dependency TypeScript packages for common deve
 ### 🔹 [angular-playground](https://github.com/ponomarenko/angular-playground)
 **Tech:** TypeScript • angular • playground • storybook
 Code examples: Explore real-world code examples that demonstrate how to solve common problems with Angular.
-
-### 🔹 [30-seconds-of-web](https://github.com/ponomarenko/30-seconds-of-web)
-**Tech:** HTML • snippets • web
-This resource offers a wide range of short code snippets that can be used for various development needs. Code examples in this repository will either be original or sourced from open sources on the internet.
 
 > 📌 Check out more projects pinned below!
 
