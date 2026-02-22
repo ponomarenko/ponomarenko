@@ -54,13 +54,13 @@ I build full-stack applications from concept to deployment, specializing in clou
 **Tech:** JavaScript • ai • code-review • dify
 🤖 AI-powered code review bot for GitLab using Dify & RAG. Automated, intelligent feedback on every MR.
 
-### 🔹 [engineering-playbook](https://github.com/ponomarenko/engineering-playbook)
-**Tech:** Other • documentation • engineering • playbook
-A comprehensive, well-organized handbook of development practices, infrastructure patterns, and operational guides.
-
 ### 🔹 [verdaccio-security-filter](https://github.com/ponomarenko/verdaccio-security-filter)
 **Tech:** TypeScript • security • verdaccio
 Advanced security filter plugin for Verdaccio with version range blocking and fallback strategies
+
+### 🔹 [engineering-playbook](https://github.com/ponomarenko/engineering-playbook)
+**Tech:** Other • documentation • engineering • playbook
+A comprehensive, well-organized handbook of development practices, infrastructure patterns, and operational guides.
 
 ### 🔹 [zero-deps-toolkit](https://github.com/ponomarenko/zero-deps-toolkit)
 **Tech:** TypeScript
