@@ -50,13 +50,13 @@ I build full-stack applications from concept to deployment, specializing in clou
 
 ## 🎯 Featured Projects
 
+### 🔹 [verdaccio-security-filter](https://github.com/ponomarenko/verdaccio-security-filter) ⭐ 2
+**Tech:** TypeScript • security • verdaccio
+Advanced security filter plugin for Verdaccio with version range blocking and fallback strategies
+
 ### 🔹 [gitlab-ai-code-review](https://github.com/ponomarenko/gitlab-ai-code-review) ⭐ 2
 **Tech:** JavaScript • ai • code-review • dify
 🤖 AI-powered code review bot for GitLab using Dify & RAG. Automated, intelligent feedback on every MR.
-
-### 🔹 [verdaccio-security-filter](https://github.com/ponomarenko/verdaccio-security-filter) ⭐ 1
-**Tech:** TypeScript • security • verdaccio
-Advanced security filter plugin for Verdaccio with version range blocking and fallback strategies
 
 ### 🔹 [engineering-playbook](https://github.com/ponomarenko/engineering-playbook)
 **Tech:** Other • documentation • engineering • playbook
