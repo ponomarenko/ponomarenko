@@ -50,7 +50,7 @@ I build full-stack applications from concept to deployment, specializing in clou
 
 ## 🎯 Featured Projects
 
-### 🔹 [verdaccio-security-filter](https://github.com/ponomarenko/verdaccio-security-filter) ⭐ 2
+### 🔹 [verdaccio-security-filter](https://github.com/ponomarenko/verdaccio-security-filter) ⭐ 3
 **Tech:** TypeScript • security • verdaccio
 Advanced security filter plugin for Verdaccio with version range blocking and fallback strategies
 
